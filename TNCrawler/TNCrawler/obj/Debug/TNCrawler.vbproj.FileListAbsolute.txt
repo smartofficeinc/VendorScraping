@@ -1,0 +1,11 @@
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\bin\Debug\TNCrawler.exe.config
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\bin\Debug\TNCrawler.exe
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\bin\Debug\TNCrawler.pdb
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\bin\Debug\TNCrawler.xml
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\obj\Debug\TNCrawler.vbprojResolveAssemblyReference.cache
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\obj\Debug\TNCrawler.Form1.resources
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\obj\Debug\TNCrawler.Resources.resources
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\obj\Debug\TNCrawler.vbproj.GenerateResource.Cache
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\obj\Debug\TNCrawler.exe
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\obj\Debug\TNCrawler.xml
+c:\users\ccompton\documents\visual studio 2015\Projects\TNCrawler\TNCrawler\obj\Debug\TNCrawler.pdb

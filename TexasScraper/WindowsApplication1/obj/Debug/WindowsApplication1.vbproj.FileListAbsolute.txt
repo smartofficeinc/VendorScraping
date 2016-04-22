@@ -1,0 +1,2 @@
+c:\users\ccompton\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\ccompton\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\TexasScraper.exe.config

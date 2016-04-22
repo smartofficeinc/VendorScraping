@@ -1,0 +1,11 @@
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\bin\Debug\NewJerseyScraper.exe.config
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\bin\Debug\NewJerseyScraper.exe
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\bin\Debug\NewJerseyScraper.pdb
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\bin\Debug\NewJerseyScraper.xml
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\obj\Debug\NewJerseyScraper.vbprojResolveAssemblyReference.cache
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\obj\Debug\NewJerseyScraper.Form1.resources
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\obj\Debug\NewJerseyScraper.Resources.resources
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\obj\Debug\NewJerseyScraper.vbproj.GenerateResource.Cache
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\obj\Debug\NewJerseyScraper.exe
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\obj\Debug\NewJerseyScraper.xml
+c:\users\ccompton\documents\visual studio 2015\Projects\NewJerseyScraper\NewJerseyScraper\obj\Debug\NewJerseyScraper.pdb

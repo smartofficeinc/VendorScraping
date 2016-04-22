@@ -1,0 +1,15 @@
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\bin\Debug\ArizonaScraper.exe.config
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\bin\Debug\ArizonaScraper.exe
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\bin\Debug\ArizonaScraper.pdb
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\bin\Debug\ArizonaScraper.xml
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\obj\Debug\ArizonaScraper.vbprojResolveAssemblyReference.cache
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\obj\Debug\ArizonaScraper.Form1.resources
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\obj\Debug\ArizonaScraper.Resources.resources
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\obj\Debug\ArizonaScraper.vbproj.GenerateResource.Cache
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\obj\Debug\ArizonaScraper.exe
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\obj\Debug\ArizonaScraper.xml
+c:\users\ccompton\documents\visual studio 2015\Projects\ArizonaScraper\ArizonaScraper\obj\Debug\ArizonaScraper.pdb
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\ArizonaScraper\ArizonaScraper\bin\Debug\ArizonaScraper.exe.manifest
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\ArizonaScraper\ArizonaScraper\bin\Debug\ArizonaScraper.application
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\ArizonaScraper\ArizonaScraper\obj\Debug\ArizonaScraper.exe.manifest
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\ArizonaScraper\ArizonaScraper\obj\Debug\ArizonaScraper.application

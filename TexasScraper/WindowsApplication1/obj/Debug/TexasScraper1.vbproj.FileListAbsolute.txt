@@ -1,0 +1,16 @@
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\bin\Debug\TexasScraper.exe.config
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\bin\Debug\TexasScraper.exe
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\bin\Debug\TexasScraper.pdb
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\bin\Debug\TexasScraper.xml
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\TexasScraper1.vbprojResolveAssemblyReference.cache
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\TexasScraper.Form1.resources
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\TexasScraper.Resources.resources
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\TexasScraper1.vbproj.GenerateResource.Cache
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\TexasScraper.exe
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\TexasScraper.xml
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\TexasScraper.pdb
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\bin\Debug\Interop.SHDocVw.dll
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\ccompton\Documents\Visual Studio 2015\Projects\TexasScraper\WindowsApplication1\obj\Debug\TexasScraper1.vbproj.ResolveComReference.cache
